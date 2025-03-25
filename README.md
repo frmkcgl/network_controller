@@ -1,6 +1,3 @@
-# network_controller
-Network Check
-
 🔍 Amaç
 Bu script, birden fazla Linux sunucusunu yöneten sistem yöneticilerinin işini kolaylaştırmak amacıyla geliştirilmiştir. Özellikle Red Hat, CentOS, Ubuntu, Fedora gibi dağıtımlar üzerinde çalışan sistemlerde, ağ bağlantılarını, ağ arayüzlerini, aktif IP ve port iletişimlerini ve spesifik bağlantı kontrollerini merkezi bir yerden, SSH üzerinden gerçekleştirmeye olanak tanır.
 Sunucular arasında geçiş yaparken SSH bağlantılarını yönetir, otomatikleştirir ve gerektiğinde kullanıcıya SSH anahtar kurulumu önerisinde bulunur.
