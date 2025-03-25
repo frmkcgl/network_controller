@@ -19,6 +19,7 @@ Anahtar kurulu değilse: kullanıcıya anahtar yüklemek ister misiniz? sorusunu
 Anahtar kurulumu reddedilirse, manuel (şifreli) SSH bağlantıya izin verme
 
 🧩 Özellikler
+
 🔸 1. Dinamik ve Katmanlı Menü Sistemi
 Ana menü → Yerel sunucu / Uzak sunucu seçimi
 Uzak sunucu → Sunucu listesi üzerinden seçim
